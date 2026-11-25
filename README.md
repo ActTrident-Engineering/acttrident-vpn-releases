@@ -5,7 +5,7 @@ Installers and signed update files for **ActTrident VPN** by ACTTRIDENT LTD. No 
 - **Download (newest stable):** [ActTrident-VPN-Setup.exe](https://github.com/ActTrident-Engineering/acttrident-vpn-releases/releases/latest/download/ActTrident-VPN-Setup.exe)
 - **Beta versions** are marked *Pre-release* on the [releases page](https://github.com/ActTrident-Engineering/acttrident-vpn-releases/releases).
 - Windows 10/11, 64-bit. The installer also installs WireGuard for Windows if it is missing.
-- ActTrident VPN is invite-only for now: you need an access code to connect.
+- Free to use during the beta: install, open, connect. No sign-up.
 
 ## Updates
 
